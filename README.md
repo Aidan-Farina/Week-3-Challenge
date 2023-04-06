@@ -8,6 +8,3 @@ In this project we were provided the website structure and had to inplement java
 
 N/A
 
-## License
-
-refer to the LICENSE in the repo
